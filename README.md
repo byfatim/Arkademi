@@ -19,3 +19,6 @@ function getProfile() {
         "interest_in_coding": true
     }
 }
+
+
+Kegunaan JSON pada REST API sebagai format untuk bertukar data client dan server atau antar aplikasi
