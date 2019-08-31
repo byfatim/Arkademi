@@ -1,5 +1,6 @@
 # 
-function getProfile() {
+function getProfile()
+{
     return {
         "name": "Fatimah",
         "age": 24,
