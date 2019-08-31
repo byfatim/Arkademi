@@ -15,7 +15,7 @@ function getProfile() {
         "skills": [{
             "skill_name": "food analysis",
             "level": "advanced"
-        }] // Array Of Object
+        }]
         "interest_in_coding": true
     }
 }
